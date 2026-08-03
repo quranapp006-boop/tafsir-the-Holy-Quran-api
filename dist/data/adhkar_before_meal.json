@@ -1,0 +1,36 @@
+{
+  "title": "قبل الطعام والشراب",
+  "icon": {
+    "src": "/assets/icons/before-meal/1.png",
+    "alt": "قبل الطعام والشراب"
+  },
+  "items": [
+    {
+      "id": 89,
+      "slug": "before-meal-1",
+      "category": "before-meal",
+      "categoryTitle": "قبل الطعام والشراب",
+      "content": {
+        "ar": "بِسْمِ اللهِ",
+        "en": null
+      },
+      "description": {
+        "ar": "ذكر قبل شرب الماء أو أي شراب، طلب البركة والشكر لله.",
+        "en": null
+      },
+      "meta": {
+        "reference": "البخاري 5367، 5378، مسلم 2022، أبو داود 3767، الترمذي 1858",
+        "count": 1
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/before-meal/1.mp3",
+            "duration": null
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -112,7 +112,6 @@ deployment. To move to a CDN later, serve `assets/` from the CDN and rewrite the
 > `duration` is `null` until measured from the real audio.
 
 ## Getting started
-
 ```bash
 npm install      # installs hono + @hono/node-server
 npm run dev      # start with hot reload (tsx watch, NODE_ENV=development)
