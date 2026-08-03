@@ -1,0 +1,36 @@
+{
+  "title": "أذكار قبل الوضوء",
+  "icon": {
+    "src": "/assets/icons/before-ablution/1.png",
+    "alt": "أذكار قبل الوضوء"
+  },
+  "items": [
+    {
+      "id": 85,
+      "slug": "before-ablution-1",
+      "category": "before-ablution",
+      "categoryTitle": "أذكار قبل الوضوء",
+      "content": {
+        "ar": "بِسْمِ اللَّهِ",
+        "en": null
+      },
+      "description": {
+        "ar": "البسملة عند البدء في الوضوء.",
+        "en": null
+      },
+      "meta": {
+        "reference": "أبو داود، ابن ماجه، أحمد",
+        "count": 1
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/before-ablution/1.mp3",
+            "duration": null
+          }
+        ]
+      }
+    }
+  ]
+}

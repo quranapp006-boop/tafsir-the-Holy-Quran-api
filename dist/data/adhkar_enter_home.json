@@ -1,0 +1,36 @@
+{
+  "title": "الذكر عند دخول المنزل",
+  "icon": {
+    "src": "/assets/icons/enter-home/1.png",
+    "alt": "الذكر عند دخول المنزل"
+  },
+  "items": [
+    {
+      "id": 94,
+      "slug": "enter-home-1",
+      "category": "enter-home",
+      "categoryTitle": "الذكر عند دخول المنزل",
+      "content": {
+        "ar": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا، ثم يسلم على أهله",
+        "en": null
+      },
+      "description": {
+        "ar": "يُقال عند ولوج المنزل مع السلام على أهله.",
+        "en": null
+      },
+      "meta": {
+        "reference": "أبو داود",
+        "count": 1
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/enter-home/1.mp3",
+            "duration": null
+          }
+        ]
+      }
+    }
+  ]
+}

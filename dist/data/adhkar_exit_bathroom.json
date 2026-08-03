@@ -1,0 +1,36 @@
+{
+  "title": "دعاء الخروج من الخلاء",
+  "icon": {
+    "src": "/assets/icons/exit-bathroom/1.png",
+    "alt": "دعاء الخروج من الخلاء"
+  },
+  "items": [
+    {
+      "id": 103,
+      "slug": "exit-bathroom-1",
+      "category": "exit-bathroom",
+      "categoryTitle": "دعاء الخروج من الخلاء",
+      "content": {
+        "ar": "غُفْرَانَكَ",
+        "en": null
+      },
+      "description": {
+        "ar": "يُقال فور الخروج من الخلاء طلباً للمغفرة.",
+        "en": null
+      },
+      "meta": {
+        "reference": "أبو داود، الترمذي، ابن ماجه",
+        "count": 1
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/exit-bathroom/1.mp3",
+            "duration": null
+          }
+        ]
+      }
+    }
+  ]
+}

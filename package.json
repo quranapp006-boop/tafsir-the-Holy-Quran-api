@@ -1,0 +1,31 @@
+{
+  "name": "adhkar-api",
+  "version": "1.0.0",
+  "description": "REST API for Islamic supplications (adhkar / zekr), built with Hono.",
+  "type": "module",
+  "main": "dist/index.js",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development tsx watch src/index.ts",
+    "clean": "node scripts/clean.mjs",
+    "build": "npm run clean && tsc -p tsconfig.build.json && node scripts/copy-assets.mjs",
+    "start": "node dist/index.js",
+    "start:prod": "cross-env NODE_ENV=production node dist/index.js",
+    "test": "cross-env NODE_ENV=test tsx test/service.test.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.7",
+    "hono": "^4.6.14"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "cross-env": "^7.0.3",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=18 <25"
+  },
+  "license": "MIT"
+}
