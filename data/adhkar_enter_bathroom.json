@@ -1,0 +1,36 @@
+{
+  "title": "دعاء الدخول إلى الخلاء",
+  "icon": {
+    "src": "/assets/icons/enter-bathroom/1.png",
+    "alt": "دعاء الدخول إلى الخلاء"
+  },
+  "items": [
+    {
+      "id": 102,
+      "slug": "enter-bathroom-1",
+      "category": "enter-bathroom",
+      "categoryTitle": "دعاء الدخول إلى الخلاء",
+      "content": {
+        "ar": "بِسْمِ اللَّهِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ",
+        "en": null
+      },
+      "description": {
+        "ar": "يُقال قبل الدخول إلى الخلاء للاستعاذة من ذكور الجن وإناثهم.",
+        "en": null
+      },
+      "meta": {
+        "reference": "البخاري، مسلم",
+        "count": 1
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/enter-bathroom/1.mp3",
+            "duration": null
+          }
+        ]
+      }
+    }
+  ]
+}

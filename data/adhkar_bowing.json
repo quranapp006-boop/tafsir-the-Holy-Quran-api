@@ -1,0 +1,144 @@
+{
+  "title": "الدعاء عند الركوع",
+  "icon": {
+    "src": "/assets/icons/bowing/1.png",
+    "alt": "الدعاء عند الركوع"
+  },
+  "items": [
+    {
+      "id": 62,
+      "slug": "bowing-1",
+      "category": "bowing",
+      "categoryTitle": "الدعاء عند الركوع",
+      "content": {
+        "ar": "سُبْحانَ رَبِّيَ الْعَظِيمِ",
+        "en": null
+      },
+      "description": {
+        "ar": "يُقال في الركوع لتمجيد الله تعالى.",
+        "en": null
+      },
+      "meta": {
+        "reference": "أبو داود، ابن ماجه",
+        "count": 3
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/bowing/1.mp3",
+            "duration": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "slug": "bowing-2",
+      "category": "bowing",
+      "categoryTitle": "الدعاء عند الركوع",
+      "content": {
+        "ar": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي",
+        "en": null
+      },
+      "description": {
+        "ar": "تسبيح وتحميد واستغفار في الركوع.",
+        "en": null
+      },
+      "meta": {
+        "reference": "البخاري، مسلم",
+        "count": 1
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/bowing/2.mp3",
+            "duration": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "slug": "bowing-3",
+      "category": "bowing",
+      "categoryTitle": "الدعاء عند الركوع",
+      "content": {
+        "ar": "سُبُّوحٌ، قُدُّوسٌ، رَبُّ الْمَلَائِكَةِ وَالرُّوحِ",
+        "en": null
+      },
+      "description": {
+        "ar": "تمجيد الله ووصفه بالقداسة ومخاطبة رب الملائكة والروح.",
+        "en": null
+      },
+      "meta": {
+        "reference": "مسلم",
+        "count": 1
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/bowing/3.mp3",
+            "duration": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "slug": "bowing-4",
+      "category": "bowing",
+      "categoryTitle": "الدعاء عند الركوع",
+      "content": {
+        "ar": "اللَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، خَشَعَ لَكَ سَمْعِي، وَبَصَرِي، وَمُخِّي، وَعَظْمِي، وَعَظْمِي، وَعَصَبِي، وَمَا اسْتَقَلَّتْ بِهِ قَدَمِي",
+        "en": null
+      },
+      "description": {
+        "ar": "دعاء الخشوع التام لله عند الركوع.",
+        "en": null
+      },
+      "meta": {
+        "reference": "مسلم",
+        "count": 1
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/bowing/4.mp3",
+            "duration": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "slug": "bowing-5",
+      "category": "bowing",
+      "categoryTitle": "الدعاء عند الركوع",
+      "content": {
+        "ar": "سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ",
+        "en": null
+      },
+      "description": {
+        "ar": "تسبيح ذي الجبروت والملكوت والظلمة العظيمة.",
+        "en": null
+      },
+      "meta": {
+        "reference": "أبو داود، النسائي",
+        "count": 1
+      },
+      "media": {
+        "audio": [
+          {
+            "reciter": "default",
+            "src": "/assets/audio/bowing/5.mp3",
+            "duration": null
+          }
+        ]
+      }
+    }
+  ]
+}
