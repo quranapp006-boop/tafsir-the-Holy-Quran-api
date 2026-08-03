@@ -4,7 +4,7 @@ A lightweight REST API for **adhkar / zekr** (Islamic supplications), built with
 [Hono](https://hono.dev). It serves 27 categories and 103 supplications, each
 with Arabic text, a virtue/description, a source reference, and optional audio
 and embedded Qur'an passages. It also resolves playable Qur'an recitation URLs
-across multiple adhkar-api.onrender.com reciters.
+across multiple everyayah.com reciters.
 
 ## Project layout
 
@@ -161,9 +161,9 @@ npm run typecheck
 
 The dataset stores ayah audio as `SSSAAA.mp3` filenames (3-digit surah + 3-digit
 ayah, e.g. `112001.mp3` = surah 112, ayah 1). The audio layer maps a
-`(surah, ayah)` pair to playable URLs from adhkar-api.onrender.com using the convention:
+`(surah, ayah)` pair to playable URLs from everyayah.com using the convention:
 
-- **everyayah** — `https://adhkar-api.onrender.com/data/<path>/<SSS><AAA>.mp3`
+- **everyayah** — `https://everyayah.com/data/<path>/<SSS><AAA>.mp3`
 
 Bundled reciters: `husary`, `minshawy-murattal`, `yasser-ad-dussary`,
 `warsh-yassin-al-jazaery`, and `ghamadi`.
